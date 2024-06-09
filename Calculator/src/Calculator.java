@@ -41,5 +41,7 @@ public class Calculator {
         System.out.println("Результат: " + result);
 
         scanner.close();
+        //gjdifgojd
+        //flkjvlk
     }
 }
